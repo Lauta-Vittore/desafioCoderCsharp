@@ -1,0 +1,15 @@
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\bin\Debug\net7.0\desafioUno.exe
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\bin\Debug\net7.0\desafioUno.deps.json
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\bin\Debug\net7.0\desafioUno.runtimeconfig.json
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\bin\Debug\net7.0\desafioUno.dll
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\bin\Debug\net7.0\desafioUno.pdb
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\obj\Debug\net7.0\desafioUno.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\obj\Debug\net7.0\desafioUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\obj\Debug\net7.0\desafioUno.AssemblyInfoInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\obj\Debug\net7.0\desafioUno.AssemblyInfo.cs
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\obj\Debug\net7.0\desafioUno.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\obj\Debug\net7.0\desafioUno.dll
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\obj\Debug\net7.0\refint\desafioUno.dll
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\obj\Debug\net7.0\desafioUno.pdb
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\obj\Debug\net7.0\desafioUno.genruntimeconfig.cache
+C:\Users\lauta\OneDrive\Escritorio\aktato\coder house\c#\desafio 1\.git\desafioUno\obj\Debug\net7.0\ref\desafioUno.dll
