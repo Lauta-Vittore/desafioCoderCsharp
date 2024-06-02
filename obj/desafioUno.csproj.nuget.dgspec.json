@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauta\\OneDrive\\Escritorio\\aktato\\coder house\\c#\\desafio 1\\.git\\desafioUno\\desafioUno.csproj": {}
+    "C:\\Users\\lauta\\Source\\Repos\\desafioCoderCsharp\\desafioUno.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauta\\OneDrive\\Escritorio\\aktato\\coder house\\c#\\desafio 1\\.git\\desafioUno\\desafioUno.csproj": {
+    "C:\\Users\\lauta\\Source\\Repos\\desafioCoderCsharp\\desafioUno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauta\\OneDrive\\Escritorio\\aktato\\coder house\\c#\\desafio 1\\.git\\desafioUno\\desafioUno.csproj",
+        "projectUniqueName": "C:\\Users\\lauta\\Source\\Repos\\desafioCoderCsharp\\desafioUno.csproj",
         "projectName": "desafioUno",
-        "projectPath": "C:\\Users\\lauta\\OneDrive\\Escritorio\\aktato\\coder house\\c#\\desafio 1\\.git\\desafioUno\\desafioUno.csproj",
+        "projectPath": "C:\\Users\\lauta\\Source\\Repos\\desafioCoderCsharp\\desafioUno.csproj",
         "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauta\\OneDrive\\Escritorio\\aktato\\coder house\\c#\\desafio 1\\.git\\desafioUno\\obj\\",
+        "outputPath": "C:\\Users\\lauta\\Source\\Repos\\desafioCoderCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
